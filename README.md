@@ -1,14 +1,21 @@
 ## Align your Personality to Your Creative Process
 
-In [my first presentation](https://docs.google.com/presentation/d/1tDY04vJ1qmYmsECIxYw0qaBC6HsX6ZLHBHDJ2Xym8xY/edit?usp=sharing) for TestKitchen, I hypothesized that an understanding of one's personality, when aligned with one's creative process, would lead toward better results. I told the story of my 5+ year journey of writing my first two novels, and how after reflecting and learning more about my personality traits I made the effort to create a better process to fit my temperament and interests.
+In [my first presentation](https://docs.google.com/presentation/d/1tDY04vJ1qmYmsECIxYw0qaBC6HsX6ZLHBHDJ2Xym8xY/edit?usp=sharing) for TestKitchen, I hypothesized that an understanding of one's personality, when aligned with one's creative process, might result in improved creative outcomes. 
+
+In other words: as artists and creatives, by matching our personalities to our chosen creative processes, we stand the chance to make better art.
+
+I told the story of my 5+ year journey of writing my first two novels, and how after reflecting and learning more about my personality traits I made the effort to create a better process to fit my temperament and interests on my current novel.
 
 <iframe src="https://open.spotify.com/embed/playlist/1e0vLPK3wKGKoSuZp1A2CT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+
 One possible first step is to take a personality test. After, you might examine the creative process you took on a recent project. Do any new approaches become available? 
 
-Here's a place to complete a Big-5 Asessment: 
+Here's a place to complete a Big-5 Asessment (there are others): 
 
 https://www.understandmyself.com/personality-assessment
+
+This one is interesting because the [work on personality by DeYoung, Quilty, and Peterson](https://www.researchgate.net/publication/5863998_Between_Facets_and_Domains_10_Aspects_of_the_Big_Five) agreed to be useful by the scientific community and also holds an additional layer, the 10 subtraits. (Here's [the paper](https://www.researchgate.net/publication/5863998_Between_Facets_and_Domains_10_Aspects_of_the_Big_Five) on researchgate.)
 
 Here's a very brief summary of the 5:
 

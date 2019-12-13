@@ -41,18 +41,19 @@ You have just completed assessing yourself with 100 phrases. Our systems have co
 
 Here are your results: You will see below where you stand in comparison to others in the general population on the major traits and their aspects:
 
-Agreeableness: Compassion and Politeness
-Conscientiousness: Industriousness and Orderliness
-Extraversion: Enthusiasm and Assertiveness
-Neuroticism: Withdrawal and Volatility
-Openness to Experience: Openness and Intellect
+**Agreeableness:** Compassion and Politeness
+**Conscientiousness:** Industriousness and Orderliness
+**Extraversion:** Enthusiasm and Assertiveness
+**Neuroticism:** Withdrawal and Volatility
+**Openness to Experience:** Openness and Intellect
+
 Remember that each personality trait and aspect (and your relative position with respect to them) has advantages and disadvantages. It is for that reason that variation exists in the human population: there is a niche for each personality configuration. Much of what constitutes success in life is therefore the consequence of finding the place in relationships, work and personal commitment that corresponds to your unique personality structure. Good luck with your expanded self-understanding!
 
 Note also that if you find that the descriptions harsher than you might consider appropriate this may mean that you were more self-critical than necessary when completing the questions (remember, the results are based on your own self-report, compared to that of others). This can occur if you were feeling temporarily or chronically unhappy or anxious, or hungry, angry or judgmental when you completed the questions.
 
  
 
-Agreeableness: Low
+## Agreeableness: Low
 You are low in agreeableness, which is the primary dimension of Interpersonal interaction in the Big Five personality trait scientific model. Agreeableness has two aspects: compassion and politeness, which will be explained separately. Agreeableness is a very complex trait, with marked positive and negative elements all along its distribution. Because of this, higher scores and lower scores need to be explained at the same time.
 
 People high in agreeableness are nice: compliant, nurturing, kind, naively trusting and conciliatory. However, because of their tendency to avoid conflict, they often dissemble and hide what they think. People low in agreeableness are not so nice: stubborn, dominant, harsh, skeptical, competitive and, in the extreme, even predatory. However, they tend to be straightforward, even blunt, so you know where they stand.
@@ -61,6 +62,8 @@ Your score puts you at the 15th percentile for agreeableness. If you were one of
 
  AGREEABLENESS
 15th percentile
+
+![imagedescription](img.png)
  
 You are less agreeable than 84 of 100 people
 People with low levels of agreeableness are seen by others as competitive, colder, tougher and less empathic. They are less likely to look for the best in others, and are not particularly tolerant (an attitude that is much valued by agreeable people). They are less concerned about the emotional state of others, are willing to engage in conflict, and will sacrifice peace and harmony to make a point or (if conscientious) to get things done. People find them straightforward, even blunt. They strongly tend towards dominance rather than submission (particularly if also below average in neuroticism).

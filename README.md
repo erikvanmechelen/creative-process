@@ -399,3 +399,9 @@ Very open, creative people can be impractical and flighty, however (particularly
 Liberals are higher in openness than conservatives (although the biggest difference between the two is openness to experience, at the trait level).
 
 Women are higher in openness than men. The mean percentile for women in a general population (women and men) is 56.5. For men it is 44.5.
+
+## If you reached the bottom
+
+Then you owe it to yourself: 
+
+[Here's two mathmeticians/physicists discussing their approaches to a theory of everything](https://www.stitcher.com/podcast/kast-media-2/the-portal-2)._

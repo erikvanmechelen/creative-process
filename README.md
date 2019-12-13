@@ -1,7 +1,5 @@
 ## Align your Personality to Your Creative Process  
 
-_“I leave Sisyphus at the foot of the mountain. One always finds one's burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.” - Albert Camus_
-
 In [my first presentation](https://docs.google.com/presentation/d/1tDY04vJ1qmYmsECIxYw0qaBC6HsX6ZLHBHDJ2Xym8xY/edit?usp=sharing) for TestKitchen, I hypothesized that an understanding of one's personality, when aligned with one's creative process, might result in improved creative outcomes.  
 
 [View the Google Slide Presentation: How to Create Your Creative Process](https://docs.google.com/presentation/d/1tDY04vJ1qmYmsECIxYw0qaBC6HsX6ZLHBHDJ2Xym8xY/edit?usp=sharing)
@@ -17,7 +15,9 @@ I told the story of my 5+ year journey of writing my first two novels, and how a
 
 One possible first step is to take a personality test. After, you might examine the creative process you took on a recent project. Do any new approaches become available? 
 
-Here's a place to complete a Big-5 Asessment (there are others): 
+_“I leave Sisyphus at the foot of the mountain. One always finds one's burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.” - Albert Camus_
+
+Ready? [Here's a website](https://www.understandmyself.com/personality-assessment) to complete a Big-5 Asessment (there are others): 
 
 https://www.understandmyself.com/personality-assessment
 

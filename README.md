@@ -14,6 +14,8 @@ I told the story of my 5+ year journey of writing my first two novels, and how a
 
 <iframe src="https://open.spotify.com/embed/playlist/1e0vLPK3wKGKoSuZp1A2CT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+_You've earned a distraction! -- [Here's two mathmeticians/physicists discussing their approaches to a theory of everything](https://www.stitcher.com/podcast/kast-media-2/the-portal-2)._
+
 ## The first step
 
 One possible first step is to take a personality test. After, you might examine the creative process you took on a recent project. Do any new approaches become available? 

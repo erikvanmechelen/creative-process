@@ -91,7 +91,7 @@ Agreeableness has two aspects: compassion and politeness.
 
  
 
-Compassion: Typical or Average
+### Compassion: Typical or Average
 You are typical or average in compassion, which is one aspect of Agreeableness. Your score puts you at the 42nd percentile for compassion. If you were one of 100 people in a room, you would be more compassionate than 42 of them and less compassionate than 57 of them.
 
 People who are typically compassionate people are reasonably interested in the problems of other people, and other living things. They are somewhat concerned about helping other people avoid negative emotion, but are willing to stand their ground, even when others get upset. They make time and do kind things for others, but balance that with fulfilling their own needs and interests. They have a soft side, but are not pushovers. Other people consider them reasonably sympathetic and nice, and will sometimes turn to them for a listening ear. They can be empathetic and caring. However, they are not primarily other-oriented, so they can negotiate effectively on their own behalf. This helps ensure that they get what they deserve, and shields them from the development of resentment.
@@ -106,7 +106,7 @@ Women are also higher in compassion than men. The mean percentile for women in a
 
  
 
-Politeness: Very Low
+### Politeness: Very Low
 You are very low in politeness, which is one aspect of Agreeableness. Your score puts you at the 4th percentile for politeness. If you were one of 100 people in a room, you would be less polite than 95 of them and more polite than 4 of them.
 
 People who are very low in politeness are not at all deferential to authority – nor are they obedient. They can be respectful, grudgingly, but only to people who clearly deserve and demand it, and they are very markedly willing to push back when challenged. They are not uncomfortable confronting other people – in fact, they may enjoy it. People very low in politeness are not motivated to avoid conflict, or to steer clear of conflict or fights. They may find themselves frequently in trouble with authority, in consequence. Their skepticism can make it very difficult for them to find a place in the middle or lower in hierarchies of power and dominance. They tend very strongly to be dominant, rather than submissive (particularly if they are also low in neuroticism).
@@ -121,7 +121,7 @@ Women are higher in politeness than men. The mean percentile for women in a gene
 
  
 
-Conscientiousness: Very Low
+## Conscientiousness: Very Low
 You are very low in conscientiousness, which is the primary dimension of dutiful achievement in the Big Five personality trait scientific model. Conscientiousness is a measure of obligation, attention to detail, hard work, persistence, cleanliness, efficiency and adherence to rules, standards and processes. Conscientious people implement their plans and establish and maintain order.
 
 Your score puts you at the 4th percentile for conscientiousness. If you were one of 100 people in a room, you would be less conscientious than 95 of them and more conscientious than 4 of them.
@@ -146,7 +146,7 @@ Conscientiousness has two aspects: industriousness and orderliness.
 
  
 
-Industriousness: Low
+### Industriousness: Low
 You are low in industriousness, which is one aspect of conscientiousness. Your score puts you at the 22nd percentile for industriousness. If you were one of 100 people in a room, you would be less industrious than 77 of them and more industrious than 22 of them.
 
 People who are low in industriousness are much less likely to be successful in school and in administrative and managerial positions (particularly if they are also less intelligent). If they are highly intelligent, they tend to be regarded as underachievers. They focus less on work than others and are substantively more likely to procrastinate, miss deadlines, or fail to complete assignments or projects completely. They put off responsibilities, concentrating more on fun, worry, relationships, excitement or creative endeavour. They aren’t concerned with schedules, timelines or efficiency, and will have to be supervised excessively before their tasks will be completed. They lack focus and are too-easily distracted.
@@ -163,7 +163,7 @@ Men are slightly more industrious than women. The mean percentile for men in a g
 
  
 
-Orderliness: Exceptionally Low
+### Orderliness: Exceptionally Low
 You are exceptionally low in orderliness, which is one aspect of conscientiousness. Your score puts you at the 1st percentile for orderliness. If you were one of 100 people in a room, you would be less orderly than 98 of them and more orderly than 1 of them.
 
 People exceptionally low in orderliness are never disturbed, upset or disgusted by mess, disorder and chaos. They appear almost completely blind to such things (or, if they do see them, they don’t at all care). They see the world in shades of grey, never in simple, straightforward black and white, and are extremely non-judgmental and devil-may-care in their attitudes toward themselves and others. They are contemptuous toward and positively hate schedules, list, or routines and, even if they plan, never implement those plans, preferring to take things as they come, and letting chance determine the outcome. They are not oriented toward detail in any way and simply never abide by rules or procedures.
@@ -180,7 +180,7 @@ Women are more orderly than men. The mean percentile for women in a general popu
 
  
 
-Extraversion: Moderately High
+## Extraversion: Moderately High
 You are moderately high in extraversion, which is the primary dimension of positive emotion in the Big Five personality trait scientific model. Extraversion is a measure of general sensitivity to positive emotions such as hope, joy, anticipation and approach, particularly in social situations.
 
 Your score puts you at the 75th percentile for extraversion. If you were one of 100 people in a room, you would be more extraverted than 75 of them and less extraverted than 24 of them.
@@ -207,7 +207,7 @@ Extraversion has two aspects: Enthusiasm and Assertiveness.
 
  
 
-Enthusiasm: Moderately Low
+### Enthusiasm: Moderately Low
 You are moderately low in enthusiasm, which is one aspect of extraversion. Your score puts you at the 36th percentile for enthusiasm. If you were one of 100 people in a room, you would be less enthusiastic than 63 of them and more enthusiastic than 36 of them.
 
 Individuals who are moderately low in enthusiasm are rarely excitable, not particularly easy to get to know, and not known for their talkative nature. When they do talk, it tends only to be about things in which they find particular interest. They do not easily open up to people, particularly in larger social gatherings or parties. They laugh more rarely than others. They tend to prefer solitude, although they can enjoy themselves around other people, in moderation. They are more private people, and are not particularly positive or optimistic. They do not crave the spotlight and, if creative, may find performing less desirable. They rarely seek out stimulation, excitement, activity or fun (and, if they do so, prefer quieter activities). People moderately low in enthusiasm are not gregarious or people-loving, and are not particularly positive about what might happen next .
@@ -222,7 +222,7 @@ Women are higher in enthusiasm than men. The mean percentile for women in a gene
 
  
 
-Assertiveness: Very High
+### Assertiveness: Very High
 You are very high in assertiveness, which is one aspect of extraversion. Your score puts you at the 92nd percentile for assertiveness. If you were one of 100 people in a room, you would be more assertive than 92 of them and less assertive than 7 of them.
 
 Very assertive people are “take charge” types. They put their own opinions forward uncommonly strongly, and tend to dominate and control social situations. Very assertive people can be strikingly influential and captivating. They have the communication style that is often associated with leadership. This is good when they are knowledgeable, competent and able, but not so good when they aren’t. Assertive people are people of action. They don’t wait for others to lead the way, but leap in, heedlessly. They can be impulsive, in consequence, and can act without thinking.
@@ -237,7 +237,7 @@ Women are slightly less assertive than men. The mean percentile for women in a g
 
  
 
-Neuroticism: Moderately High
+## Neuroticism: Moderately High
 You are moderately high in neuroticism, which is the primary dimension of negative emotion in the Big Five personality trait scientific model. Neuroticism is a measure of general sensitivity to negative emotions such as pain, sadness, irritable or defensive anger, fear and anxiety.
 
 Your score puts you at the 69th percentile for neuroticism. If you were one of 100 people in a room, you would be higher in neuroticism than 69 of them and lower in neuroticism than 30 of them.
@@ -260,7 +260,7 @@ Trait neuroticism is made up of the aspects withdrawal and volatility.
 
  
 
-Withdrawal: Typical or Average
+### Withdrawal: Typical or Average
 You are typical or average in withdrawal, which is one aspect of neuroticism. Your score puts you at the 41st percentile for withdrawal. If you were one of 100 people in a room, you would be higher in withdrawal than 41 of them and lower in withdrawal than 58 of them.
 
 Individuals average in withdrawal may occasionally suffer from anticipatory anxiety, but are generally not impeded by it. They can handle new, uncertain, unexpected, threatening or complex situations quite well. They are not more likely to avoid or withdraw in the face of the unknown and unexpected.
@@ -277,7 +277,7 @@ Women are higher in withdrawal than men. The mean percentile for women in a gene
 
  
 
-Volatility: High
+### Volatility: High
 You are high in volatility, which is one aspect of neuroticism. Your score puts you at the 86th percentile for volatility. If you were one of 100 people in a room, you would be more volatile than 86 of them and less volatile than 13 of them.
 
 Individuals high in volatility tend to vary in their mood. They can be irritable, reacting strongly to disappointment, frustration, pain and the threat of social isolation. They can lash out and are relatively easily annoyed. They are more likely to act out or verbally express their frustration, disappointment and irritability. They can be stirred up and upset and, once angry or irritated, take a longer than average time to calm down. They can be argumentative and lose their composure. They can be provocative in a dispute (particularly if also low in agreeableness). Perhaps people high in volatility get upset if something bad does happen, while people high in withdrawal (the other aspect of neuroticism) suffer from more concern that something bad might happen. Technically, volatility has been associated with activity in the brain systems that regulate fight, flight or freeze.
@@ -292,7 +292,7 @@ Women are higher in volatility than men. The mean percentile for women in a gene
 
  
 
-Openness to Experience: Exceptionally High
+## Openness to Experience: Exceptionally High
 You are exceptionally high in openness to experience, which is the primary dimension of creativity, artistic interest and intelligence (particularly verbal intelligence) in the Big Five personality trait scientific model. Openness to experience is a measure of interest in novelty, art, literature, abstract thinking, philosophy as well as sensitivity to aesthetic emotions and beauty.
 
 Your score puts you at the 96th percentile for openness to experience. If you were one of 100 people in a room, you would be higher in openness to experience than 96 of them and lower in openness to experience than 3 of them.
@@ -319,7 +319,7 @@ Trait openness to experience is made up of the aspects of intellect and openness
 
  
 
-Intellect: Very High
+### Intellect: Very High
 Note: Do not confuse the personality aspect of Intellect with IQ. Intellect is a measure of interest in abstract ideas, essentially, while IQ is a measure of processing speed, verbal ability, working memory, and problem solving capacity, and is better measured with a formal IQ test. It is perfectly possible to have a high IQ and a low score on the personality trait of Intellect (or the reverse).
 
 You are very high in intellect, which is one aspect of openness to experience. Your score puts you at the 94th percentile for intellect. If you were one of 100 people in a room, you would be higher in intellect than 94 of them and lower in intellect than 5 of them.
@@ -338,7 +338,7 @@ Women are lower than men in intellect (although not in IQ). This is probably a d
 
  
 
-Openness: Very High
+### Openness: Very High
 You are very high in openness, which is one aspect of openness to experience. Your score puts you at the 93rd percentile for openness. If you were one of 100 people in a room, you would be higher in openness than 93 of them and lower in openness than 6 of them.
 
 The closest synonym for openness (rather than openness to experience, which encompasses openness and intellect) is creativity. Very open, creative people love beauty. They require an outlet for their creative ability, or they cannot thrive. They need to be surrounded by art or beautiful crafts. They are strikingly sensitive to color and architectural form. They very much like to collect things, now and then to the point of obsession. They are very imaginative, and love to daydream and reflect on things. They are uncommonly affected by music, often of many genres, and may be musical or artistic themselves (both of these are rare in the general population). They can get unusually immersed in a book, or a movie, or in their own thoughts, and become oblivious to the outside world. They respond very strongly to beauty, creativity and art.

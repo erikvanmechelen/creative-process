@@ -1,5 +1,7 @@
 ## Align your Personality to Your Creative Process  
 
+“I leave Sisyphus at the foot of the mountain. One always finds one's burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.” - Albert Camus
+
 In [my first presentation](https://docs.google.com/presentation/d/1tDY04vJ1qmYmsECIxYw0qaBC6HsX6ZLHBHDJ2Xym8xY/edit?usp=sharing) for TestKitchen, I hypothesized that an understanding of one's personality, when aligned with one's creative process, might result in improved creative outcomes.  
 
 [View the Google Slide Presentation: How to Create Your Creative Process](https://docs.google.com/presentation/d/1tDY04vJ1qmYmsECIxYw0qaBC6HsX6ZLHBHDJ2Xym8xY/edit?usp=sharing)

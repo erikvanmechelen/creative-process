@@ -1,6 +1,6 @@
 ## Align your Personality to Your Creative Process  
 
-“I leave Sisyphus at the foot of the mountain. One always finds one's burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.” - Albert Camus
+_“I leave Sisyphus at the foot of the mountain. One always finds one's burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.” - Albert Camus_
 
 In [my first presentation](https://docs.google.com/presentation/d/1tDY04vJ1qmYmsECIxYw0qaBC6HsX6ZLHBHDJ2Xym8xY/edit?usp=sharing) for TestKitchen, I hypothesized that an understanding of one's personality, when aligned with one's creative process, might result in improved creative outcomes.  
 
@@ -270,6 +270,9 @@ People with moderately high levels of neuroticism are somewhat more likely to th
 
 NEUROTICISM
 69th percentile
+
+![neuroticism](https://raw.githubusercontent.com/erikvanmechelen/creative-process/master/neuroticism.png)
+
  
 You are higher in neuroticism than 69 of 100 people
 Moderately high levels of neuroticism may interfere somewhat with both success and satisfaction in relationships and career, with the strongest effect on relationships. Moderately high levels of neuroticism are associated with slightly more concern about mental and physical health, as well as more physician and emergency room visits, and higher than average levels of absenteeism at work and at school (particularly if accompanied by below average levels of conscientiousness).
@@ -293,6 +296,8 @@ People with average levels of withdrawal sometimes feel sad, lonesome, disappoin
 
 WITHDRAWAL
 41st percentile
+
+![withdrawal](https://raw.githubusercontent.com/erikvanmechelen/creative-process/master/withdrawal.png)
  
 You are higher in withdrawal than 41 of 100 people
 Those who are liberal, politically, are slightly higher in withdrawal than conservatives.
@@ -308,6 +313,8 @@ Individuals high in volatility tend to vary in their mood. They can be irritable
 
  VOLATILITY
 86th percentile
+
+![volatility](https://raw.githubusercontent.com/erikvanmechelen/creative-process/master/volatility.png)
  
 You are more volatile than 86 of 100 people
 Volatility is not strongly related to political preference, either liberal or conservative.

@@ -28,7 +28,7 @@ Ready? [Here's a website](https://www.understandmyself.com/personality-assessmen
 
 [https://www.understandmyself.com/personality-assessment](https://www.understandmyself.com/personality-assessment)
 
-This one is interesting because the [work on personality by DeYoung, Quilty, and Peterson](https://www.researchgate.net/publication/5863998_Between_Facets_and_Domains_10_Aspects_of_the_Big_Five) agreed to be useful by the scientific community and also holds an additional layer, the 10 subtraits. (Here's [the paper](https://www.researchgate.net/publication/5863998_Between_Facets_and_Domains_10_Aspects_of_the_Big_Five) on researchgate.)
+This one is interesting because the [work on personality by DeYoung, Quilty, and Peterson](https://www.researchgate.net/publication/5863998_Between_Facets_and_Domains_10_Aspects_of_the_Big_Five) is generally agreed to be useful by the scientific community and also holds an additional layer, the 10 subtraits. (Here's [the paper](https://www.researchgate.net/publication/5863998_Between_Facets_and_Domains_10_Aspects_of_the_Big_Five) on researchgate.) For what it's worth, I've also taken Myers-Briggs and Strengthsfinder, and several others, which are generally similar views on the same thing, our multi-faceted personalities.
 
 #### Here's a very brief summary of the 5:
 

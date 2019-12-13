@@ -2,6 +2,8 @@
 
 In [my first presentation](https://docs.google.com/presentation/d/1tDY04vJ1qmYmsECIxYw0qaBC6HsX6ZLHBHDJ2Xym8xY/edit?usp=sharing) for TestKitchen, I hypothesized that an understanding of one's personality, when aligned with one's creative process, would lead toward better results. I told the story of my 5+ year journey of writing my first two novels, and how after reflecting and learning more about my personality traits I made the effort to create a better process to fit my temperament and interests.
 
+<iframe src="https://open.spotify.com/embed/playlist/1e0vLPK3wKGKoSuZp1A2CT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 One possible first step is to take a personality test. After, you might examine the creative process you took on a recent project. Do any new approaches become available? 
 
 Here's a place to complete a Big-5 Asessment: 

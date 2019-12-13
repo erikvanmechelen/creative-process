@@ -4,6 +4,8 @@ In [my first presentation](https://docs.google.com/presentation/d/1tDY04vJ1qmYms
 
 [View the Google Slide Presentation: How to Create Your Creative Process](https://docs.google.com/presentation/d/1tDY04vJ1qmYmsECIxYw0qaBC6HsX6ZLHBHDJ2Xym8xY/edit?usp=sharing)
 
+_If I were more industrious, I would have gone to the library and printed this out to have as handouts._
+
 In other words: as artists and creatives, by matching our personalities to our chosen creative processes, we stand the chance to make better art.
 
 I told the story of my 5+ year journey of writing my first two novels, and how after reflecting and learning more about my personality traits I made the effort to create a better process to fit my temperament and interests on my current novel.
@@ -201,6 +203,8 @@ People with moderately high levels of extraversion are quite enthusiastic, talka
 
 EXTRAVERSION
 75th percentile
+
+![extraversion](https://raw.githubusercontent.com/erikvanmechelen/creative-process/master/extraversion.png)
  
 You are more extraverted than 75 of 100 people
 People who are moderately extraverted don’t often keep things to themselves, tending instead to share what they are thinking with everyone. They are self-disclosing (particularly if also high in neuroticism) and they warm fairly rapidly to other people. They are among the first to speak in meetings. They can be captivating and convincing. They are likely to be among the first to act in an ambiguous situation.
@@ -226,6 +230,9 @@ Individuals who are moderately low in enthusiasm are rarely excitable, not parti
 
 ENTHUSIASM
 36th percentile
+
+![enthusiasm](https://raw.githubusercontent.com/erikvanmechelen/creative-process/master/enthusiasm.png)
+
  
 You are less enthusiastic than 63 of 100 people
 Enthusiasm is not strongly associated with political preference, either conservative or liberal.
@@ -241,6 +248,9 @@ Very assertive people are “take charge” types. They put their own opinions f
 
  ASSERTIVENESS
 92nd percentile
+
+![assertiveness](https://raw.githubusercontent.com/erikvanmechelen/creative-process/master/assertiveness.png)
+
  
 You are more assertive than 92 of 100 people
 Liberals tend to be slightly less assertive than conservatives.

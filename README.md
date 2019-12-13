@@ -8,22 +8,29 @@ _If I were more industrious, I would have gone to the library and printed this o
 
 In other words: as artists and creatives, by matching our personalities to our chosen creative processes, we stand the chance to make better art.
 
+No matter your genre of art or creativity, you have a _way_ of doing whatever you do. When was the last time you not only reflected on your creative process, but actively sought to change it--to update it--to match who you are _today_, not yesterday, but right now? 
+
 I told the story of my 5+ year journey of writing my first two novels, and how after reflecting and learning more about my personality traits I made the effort to create a better process to fit my temperament and interests on my current novel.
 
 <iframe src="https://open.spotify.com/embed/playlist/1e0vLPK3wKGKoSuZp1A2CT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+## The first step
 
 One possible first step is to take a personality test. After, you might examine the creative process you took on a recent project. Do any new approaches become available? 
 
 _“I leave Sisyphus at the foot of the mountain. One always finds one's burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.” - Albert Camus_
 
+When you need to leave one project for the next, remember "one always finds one's burden again". 
+
+We are all ships of Theseus; it is good to notice our changes along the way. 
+
 Ready? [Here's a website](https://www.understandmyself.com/personality-assessment) to complete a Big-5 Asessment (there are others): 
 
-https://www.understandmyself.com/personality-assessment
+[https://www.understandmyself.com/personality-assessment](https://www.understandmyself.com/personality-assessment)
 
 This one is interesting because the [work on personality by DeYoung, Quilty, and Peterson](https://www.researchgate.net/publication/5863998_Between_Facets_and_Domains_10_Aspects_of_the_Big_Five) agreed to be useful by the scientific community and also holds an additional layer, the 10 subtraits. (Here's [the paper](https://www.researchgate.net/publication/5863998_Between_Facets_and_Domains_10_Aspects_of_the_Big_Five) on researchgate.)
 
-Here's a very brief summary of the 5:
+#### Here's a very brief summary of the 5:
 
 Extraversion
 Neuroticism

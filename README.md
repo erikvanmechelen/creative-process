@@ -1,6 +1,6 @@
 ## Align your Personality to Your Creative Process  
 
-In [my first presentation](https://docs.google.com/presentation/d/1tDY04vJ1qmYmsECIxYw0qaBC6HsX6ZLHBHDJ2Xym8xY/edit?usp=sharing) for TestKitchen, I hypothesized that an understanding of one's personality, when aligned with one's creative process, might result in improved creative outcomes.  
+In [my first presentation](https://docs.google.com/presentation/d/1tDY04vJ1qmYmsECIxYw0qaBC6HsX6ZLHBHDJ2Xym8xY/edit?usp=sharing) for TestKitchen, I hypothesized that an understanding of one's personality, when aligned with one's creative process, might result in improved creative outcomes.   
 
 [View the Google Slide Presentation: How to Create Your Creative Process](https://docs.google.com/presentation/d/1tDY04vJ1qmYmsECIxYw0qaBC6HsX6ZLHBHDJ2Xym8xY/edit?usp=sharing)
 

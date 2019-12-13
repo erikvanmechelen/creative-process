@@ -136,6 +136,8 @@ People very low in conscientiousness do not regard duty as at all important. The
 
  CONSCIENTIOUSNESS
 4th percentile
+
+![conscientiousness](https://raw.githubusercontent.com/erikvanmechelen/creative-process/master/conscientiousness.png)
  
 You are less conscientious than 95 of 100 people
 People with very low levels of conscientiousness are very likely to obtain poor grades in academic settings (particularly if they also less intelligent), and generally require substantial supervision to stay on task. For this reason, they make poor managers and administrators. They are not compelled to do things by the book, however. This can perhaps be an advantage, if they are engaged in creative tasks, where rules must be broken for advancement to take place. Very unconscientious people will not make career or educational accomplishment a primary goal, and will turn instead to pursuit of safety and security (if high in neuroticism), creative accomplishment (if high in openness), establishment of intimate relationships and friendships (if highly agreeable), or social success, excitement and fun (if extraverted). They are by no means ambitious.
@@ -159,6 +161,8 @@ People who are low in industriousness are much less likely to be successful in s
 
  INDUSTRIOUSNESS
 22nd percentile
+
+![industriousness](https://raw.githubusercontent.com/erikvanmechelen/creative-process/master/industriousness.png)
  
 You are less industrious than 77 of 100 people
 People low in industriousness are not judgmental to themselves or others. They let people, including themselves, off the hook. They believe that people fail not because they don’t apply themselves or work hard but because chance and luck play the determining roles. They are resistant to guilt, self-disgust or self-contempt, and have a very laissez-faire, whatever-will-be-will-be attitude toward life.
@@ -176,6 +180,8 @@ People exceptionally low in orderliness are never disturbed, upset or disgusted 
 
  ORDERLINESS
 1st percentile
+
+![orderliness](https://raw.githubusercontent.com/erikvanmechelen/creative-process/master/orderliness.png)
  
 You are less orderly than 98 of 100 people
 People who are exceptionally low in orderliness cannot tolerate or establish any routine or predictability whatsoever. Their schedules are remarkably loose, their time completely unscheduled, and disruption doesn’t bother them in the least. They require continual and constant reminder and supervision to maintain any attention and focus whatsoever, and are continually distracted and off task. They can, however, tolerate the mess, disruption and intervening periods of chaos that may accompany creative endeavour.

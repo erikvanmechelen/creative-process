@@ -332,6 +332,8 @@ People with exceptionally high levels of openness to experience are almost alway
 
  OPENNESS TO EXPERIENCE
 96th percentile
+
+![Openness](https://raw.githubusercontent.com/erikvanmechelen/creative-process/master/openness.png)
  
 You are higher in openness to experience than 96 of 100 people
 They are almost always prolific readers, and are interested in a vast range of topics. They have an exceptionally broad and deep vocabulary. They can think and learn remarkably quickly. They are unusually proficient at formulating new ideas, and can be exceptionally articulate (particularly if average or above in extraversion). People exceptionally high in openness can see old things in remarkable ways. They can think outside of the box. When they hear or come up with an idea, many other ideas are usually triggered. They can formulate any single problem in an exceptionally diverse range of ways, and can generate a tremendously large number of problem-solving solutions. They will constantly seek change, often to make things better, but also just for the sake of change.
@@ -359,6 +361,8 @@ People very high in intellect are notably interested in ideas and abstract conce
 
  INTELLECT
 94th percentile
+
+![intellect](https://raw.githubusercontent.com/erikvanmechelen/creative-process/master/intellect.png)
  
 You are higher in intellect than 94 of 100 people
 People very high in intellect find complex, rapidly changing occupations necessary and will generally excel at them (particularly if they are also high in conscientiousness and low in neuroticism). However, they are very much less well-suited to stable, straightforward and more traditional occupations, where the rules don't change, and will experience frequent periods of boredom and intolerable levels of frustration in such positions.
@@ -376,6 +380,9 @@ The closest synonym for openness (rather than openness to experience, which enco
 
  OPENNESS
 93rd percentile
+
+![openness-1](https://raw.githubusercontent.com/erikvanmechelen/creative-process/master/openness-1.png)
+
  
 You are higher in openness than 93 of 100 people
 Very open, creative people can be impractical and flighty, however (particularly if low in conscientiousness). It can be extremely difficult to transform creativity into money, or into a career. High levels of openness are, furthermore, necessary for entrepreneurial success, and often prove useful at the top of hierarchies, even in very conservative occupations such as banking, accounting and law, which need creative people in leadership positions to provide new vision and direction.

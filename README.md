@@ -2,6 +2,8 @@
 
 In [my first presentation](https://docs.google.com/presentation/d/1tDY04vJ1qmYmsECIxYw0qaBC6HsX6ZLHBHDJ2Xym8xY/edit?usp=sharing) for TestKitchen, I hypothesized that an understanding of one's personality, when aligned with one's creative process, might result in improved creative outcomes. 
 
+[View the Google Slide Presentation](https://docs.google.com/presentation/d/1tDY04vJ1qmYmsECIxYw0qaBC6HsX6ZLHBHDJ2Xym8xY/edit?usp=sharing)
+
 In other words: as artists and creatives, by matching our personalities to our chosen creative processes, we stand the chance to make better art.
 
 I told the story of my 5+ year journey of writing my first two novels, and how after reflecting and learning more about my personality traits I made the effort to create a better process to fit my temperament and interests on my current novel.

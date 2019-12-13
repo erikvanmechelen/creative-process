@@ -47,7 +47,8 @@ If you don't want to take the test yourself, you might be able to derive where y
 
 Here are my results: 
 
-The Big Five Aspect Scale
+## The Big Five Aspect Scale for Erik van Mechelen
+
 You have just completed assessing yourself with 100 phrases. Our systems have compared your-self-ratings to those of thousands of other people. You are being compared to men and women of all ages. This means that if you are young, your scores on neuroticism will be higher and on agreeableness and conscientiousness will be lower than if you were compared to people of your own age (with the reverse being true for older individuals). For men, their scores on agreeableness and on neuroticism will be lower than if they were just being compared to men. We decided to make the comparisons simple, so that you know where you stand in comparison to the typical person (with age and sex regarded as irrelevant).
 
 Here are your results: You will see below where you stand in comparison to others in the general population on the major traits and their aspects:
@@ -74,7 +75,7 @@ Your score puts you at the 15th percentile for agreeableness. If you were one of
  AGREEABLENESS
 15th percentile
 
-![imagedescription](img.png)
+![agreeableness](https://raw.githubusercontent.com/erikvanmechelen/creative-process/master/agreeableness.png)
  
 You are less agreeable than 84 of 100 people
 People with low levels of agreeableness are seen by others as competitive, colder, tougher and less empathic. They are less likely to look for the best in others, and are not particularly tolerant (an attitude that is much valued by agreeable people). They are less concerned about the emotional state of others, are willing to engage in conflict, and will sacrifice peace and harmony to make a point or (if conscientious) to get things done. People find them straightforward, even blunt. They strongly tend towards dominance rather than submission (particularly if also below average in neuroticism).
@@ -98,6 +99,9 @@ People who are typically compassionate people are reasonably interested in the p
 
 COMPASSION
 42nd percentile
+
+![compassion](https://raw.githubusercontent.com/erikvanmechelen/creative-process/master/compassion.png)
+
  
 You are more compassionate than 42 of 100 people
 Those who are liberal, politically, score somewhat higher in compassion than conservatives.
@@ -113,6 +117,8 @@ People who are very low in politeness are not at all deferential to authority â€
 
  POLITENESS
 4th percentile
+
+![politeness](https://raw.githubusercontent.com/erikvanmechelen/creative-process/master/politeness.png)
  
 You are less polite than 95 of 100 people
 Those who are liberal, politically, score somewhat lower in politeness than conservatives (the opposite pattern is seen with compassion).
